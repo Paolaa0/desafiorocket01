@@ -1,0 +1,59 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  margin: 0;
+}
+
+h1 {
+  font-family: "Dosis", sans-serif;
+  font-size: 32px;
+  line-height: auto;
+  font-weight: normal;
+  margin-bottom: 30px;
+}
+
+#girl {
+  width: 626px;
+  margin: 60px auto 64px;
+}
+
+#gilr img {
+  margin-bottom: 36px;
+}
+
+h1 span {
+  color: #ee24ff;
+  font-weight: bold;
+}
+
+strong,
+a {
+  color: #3f3d56;
+}
+
+p {
+  color: #828282;
+  font-size: 15px;
+}
+
+p span {
+  color: #828282;
+  font-weight: bold;
+}
+
+#footer a + a {
+  margin-left: 28px;
+  font-size: 15px;
+}
+
+.line {
+  width: 400px;
+  height: 0px;
+  margin: 0 auto 0;
+  border: 1px solid #eceff2;
+}
+
+#wave {
+  margin-top: 40px;
+  width: 1024px;
+}
